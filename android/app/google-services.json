@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474804835371",
+    "project_id": "learning-platform-2cd28",
+    "storage_bucket": "learning-platform-2cd28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474804835371:android:7eaea27f7cb919a87bc66e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVQ83xe3qSlYOvskQ5RobGR-Uaa_B5mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474804835371:android:cca3b4744b55accd7bc66e",
+        "android_client_info": {
+          "package_name": "com.example.learning_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVQ83xe3qSlYOvskQ5RobGR-Uaa_B5mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
